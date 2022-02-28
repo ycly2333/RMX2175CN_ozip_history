@@ -19,5 +19,8 @@
 [A.15](A.15.md)     | [下载直链](https://download.c.realme.com/osupdate/RMX2175_11_OTA_0150_all_ztdBpgIavDnf.ozip)
 [A.10](A.10.md)     | [下载直链](https://download.c.realme.com/osupdate/RMX2175_11_OTA_0100_all_oYotx6b0NT8Z.ozip)
 
+## QQ群
+![qq](realme_ycly.png)
+
 ## 联系方式
 ![coolapk_ycly](coolapk.png)
